@@ -62,3 +62,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+docs/hyp/.DS_Store
+docs/hyp/2.2/.DS_Store
+docs/oxn/.DS_Store
+docs/oxn/1.0/.DS_Store
