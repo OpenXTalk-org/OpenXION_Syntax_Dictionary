@@ -2,7 +2,8 @@
 
 Syntax dictionary for the xTalk script dialect OpenXION
 
-# Command line options for XION:
+## Command line options for XION:
+'''
 Usage: xion [options] [--] [programfile] [programfile] [...]
   -c statement        execute the specified statements
   -D var=value        set the value of a global variable
