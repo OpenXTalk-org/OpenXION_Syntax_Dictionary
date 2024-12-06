@@ -3,8 +3,7 @@
 Syntax dictionary for the xTalk script dialect OpenXION
 
 ## Command line options for XION:
-'''
-Usage: xion [options] [--] [programfile] [programfile] [...]
+```Usage: xion [options] [--] [programfile] [programfile] [...]
   -c statement        execute the specified statements
   -D var=value        set the value of a global variable
   -E encoding         specify the text encoding used to read script files
